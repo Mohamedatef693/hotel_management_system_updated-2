@@ -1,0 +1,2 @@
+1,hamo,0102199,mo@gmail.com,50000,morning,manger
+5,marawan,0102695841,marawan@gmail.com,1000,night,security

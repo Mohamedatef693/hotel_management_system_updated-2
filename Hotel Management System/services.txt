@@ -1,0 +1,3 @@
+Breakfast Buffet,General,Hotel Service,100,No,
+spa,general,Hotel Service,150,Yes,0
+barachot,sea,flying,600,Yes,0

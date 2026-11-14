@@ -1,0 +1,3 @@
+bavly edward ,01200887172,mo@gmail.com,america ,16/8/2005,3050816241813
+Customer 2,0254789651,customer@gmail.com,,,987654321
+Kero,0102,kero@gmail.com,spain,28/4/2005,30506010145269

@@ -1,0 +1,3 @@
+hamo,101,2026-05-10,2026-05-14,spa,2150,Confirmed
+mohamed,304,2026-05-30,2026-06-10,breakfast,6000,Check-In
+omar,101,2026-05-11,2026-05-13,spa,2150,Confirmed
